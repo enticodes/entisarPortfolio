@@ -2123,8 +2123,8 @@ export default function Portfolio() {
 
               {/* Download Resume Button */}
               <a
-                href="/Entisar.pdf"
-                download="Entisar.pdf"
+                href="/iEntisarPortfolio.pdf"
+                download="iEntisarPortfolio.pdf"
                 className="group/dl inline-flex items-center gap-2.5 mt-5 sm:mt-6 px-5 py-2.5 sm:px-6 sm:py-3 rounded-2xl bg-white/[0.05] hover:bg-white/[0.12] backdrop-blur-xl border border-white/[0.1] hover:border-white/25 shadow-[0_4px_20px_rgba(0,0,0,0.4)] hover:shadow-[0_8px_32px_rgba(255,255,255,0.08)] transition-all duration-300 hover:-translate-y-0.5 active:scale-[0.97] w-fit"
                 style={{
                   opacity: isAboutVisible ? 1 : 0,
